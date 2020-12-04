@@ -64,15 +64,17 @@ text-align: center;
 @media only screen and (max-width: 600px) {
     .main-container {
         display: block;
+        flex-direction: column;
     }
     .main-container img {
         text-align: center;
-        padding-right: 20px;
+        padding-left: 25px;
     }
     .content h1 {
-        width: 420px;
+        width: 450px;
     }
+    
     .copyright {
-       padding-right: 15px;
+       padding-left: 20px;
     }
 }
