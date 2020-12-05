@@ -66,15 +66,14 @@ text-align: center;
         display: block;
         flex-direction: column;
     }
-/*     .main-container img {
+     img {
         text-align: center;
-        padding-left: 25px;
     }
     .content h1 {
         width: 450px;
     }
-    
+/*     
     .copyright {
        padding-left: 20px;
-    } */
+    }  */
 }
