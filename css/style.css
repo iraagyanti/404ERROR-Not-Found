@@ -66,7 +66,7 @@ text-align: center;
         display: block;
         flex-direction: column;
     }
-    .main-container img {
+/*     .main-container img {
         text-align: center;
         padding-left: 25px;
     }
@@ -76,5 +76,5 @@ text-align: center;
     
     .copyright {
        padding-left: 20px;
-    }
+    } */
 }
