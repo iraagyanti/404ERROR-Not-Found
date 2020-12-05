@@ -64,17 +64,17 @@ text-align: center;
 @media only screen and (max-width: 600px) {
     .main-container {
         display: flex;
-        justify-content: center;
-        margin: 0 90px 0 90px;
+        flex-direction: column;
     }
 /*       img {
           text-align: center;
     }  */
     .content h1 {
+        
         width: 500px;
     }
     
     .copyright {
-        width: 33%;
+        width: 25%;
     } 
 }
