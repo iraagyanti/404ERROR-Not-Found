@@ -65,9 +65,9 @@ text-align: center;
     .main-container {
         display: block;
         padding-left: 40px;
+        justify-content: center;
     }
      img {
-         width: 100px;
          text-align: center;
     }
     .content h1 {
