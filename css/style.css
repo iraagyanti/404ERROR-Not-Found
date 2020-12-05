@@ -65,11 +65,11 @@ text-align: center;
     .main-container {
         display: block;
 /*         padding-left: 40px; */
-        justify-content: center;
+/*         justify-content: center; */
     }
-     img {
-         text-align: center;
-    }
+/*      img {
+/*          text-align: center; */
+    } */
     .content h1 {
         width: 500px;
     }
