@@ -5,8 +5,8 @@ padding: 0;
 
 img {
 display: inline-block;
-max-width: 100%;
-width: 539.22px;
+/* max-width: 100%;
+width: 539.22px; */
 height: 447.43px;
 }
 
@@ -64,17 +64,17 @@ text-align: center;
 @media only screen and (max-width: 600px) {
     .main-container {
         display: block;
-/*         flex-direction: column; */
+        padding-left: 40px;
     }
      img {
-        padding-right: 0;
-        text-align: center;
+         width: 60px;
+         text-align: center;
     }
     .content h1 {
         width: 500px;
     }
-/*     
+    
     .copyright {
-       padding-left: 20px;
-    }  */
+       padding-left: 60px;
+    } 
 }
