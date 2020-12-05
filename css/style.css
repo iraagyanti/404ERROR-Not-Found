@@ -67,7 +67,7 @@ text-align: center;
         padding-left: 40px;
     }
      img {
-         width: 60px;
+         width: 100px;
          text-align: center;
     }
     .content h1 {
@@ -75,6 +75,7 @@ text-align: center;
     }
     
     .copyright {
+       display: block
        padding-left: 60px;
     } 
 }
