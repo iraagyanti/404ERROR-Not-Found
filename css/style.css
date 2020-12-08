@@ -63,9 +63,8 @@ text-align: center;
 }
 @media only screen and (max-width: 600px) {
     .main-container {
-        display: flex;
+        display: block;
         align-content: center;
-        height: 150px;
     }
 /*       img {
           text-align: center;
