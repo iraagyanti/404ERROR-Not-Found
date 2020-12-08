@@ -64,9 +64,10 @@ text-align: center;
     .main-container {
         flex-direction: column;        
     }
-/*       img {
+      img {
         text-align: center;
-    }  */
+        height: 400px;
+    } 
     .content h1 {
         width: 500px;
     }
