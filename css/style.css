@@ -63,8 +63,8 @@ text-align: center;
 @media only screen and (max-width: 600px) {
     .main-container {
         display: flex;
-        width: 150px;
-        height: 100px;
+        width: 100%;
+        
     }
 /*       img {
         text-align: center;
@@ -75,6 +75,7 @@ text-align: center;
     }
     
     .copyright {
+        position:fixed
         width: 165%;
     } 
 }
