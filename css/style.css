@@ -62,9 +62,7 @@ text-align: center;
 }
 @media only screen and (max-width: 600px) {
     .main-container {
-        display: flex;
-        flex-direction: column;
-        
+        display: block; 
     }
 /*       img {
         text-align: center;
