@@ -64,7 +64,8 @@ text-align: center;
 @media only screen and (max-width: 600px) {
     .main-container {
         flex-direction: column; 
-        align-items: center;
+        justify-content: center;
+        flex-wrap: wrap;
     }
 /*       img {
         text-align: center;
