@@ -5,13 +5,14 @@ padding: 0;
 
 img {
 display: inline-block;
-max-width: 100%;
-width: 539.22px;
+/* max-width: 100%;
+width: 539.22px; */
 height: 447.43px;
 }
 .main-container {
 display: flex;
-justify-content: center;
+flex-direction: row;
+text-align: center;
 padding-top: 88px;
 justify-content: space-around;
 }
@@ -62,7 +63,7 @@ text-align: center;
 }
 @media only screen and (max-width: 600px) {
     .main-container {
-        display: block; 
+        flex-direction: column; 
     }
 /*       img {
         text-align: center;
