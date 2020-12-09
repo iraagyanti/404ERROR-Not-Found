@@ -65,10 +65,11 @@ text-align: center;
     .main-container {
         flex-direction: column; 
         text-align: left;
-        padding: 85px 0 0 20px;
+        padding-left: 30px;
     }
     .img {
-        width: 500px;
+        width: 450px;
+        padding-bottom: 50px;
     }
     .content h1 {
         width: 495px;
@@ -79,6 +80,6 @@ text-align: center;
     .copyright {
         width: 150%;
         padding-bottom: 20px;
-        padding-left: 40px;
+        padding-left: 30px;
     } 
 }
