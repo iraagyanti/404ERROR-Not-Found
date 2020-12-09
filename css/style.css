@@ -68,10 +68,14 @@ text-align: center;
         padding-left: 30px;
     }
     .img {
-        width: 450px;
-        padding-bottom: 50px;
+        width: 400px;
+    }
+    .btn .btn p { 
+        padding: 45px;
+        text-align: center;
     }
     .content h1 {
+        padding-top: 50px;
         width: 495px;
     }
     .content p { 
