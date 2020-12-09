@@ -73,13 +73,14 @@ text-align: center;
     .content h1 {
         width: 495px;
         text-align: left;
+        padding-left: 20px;
     }
     .content p {
-        text-align: left
+        text-align: left;
     }
-/*     .btn {
+    .btn .btn p {
         padding-left: 20px;
-    } */
+    }
     
     .copyright {
         width: 150%;
