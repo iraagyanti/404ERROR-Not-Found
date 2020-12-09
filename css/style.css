@@ -65,25 +65,16 @@ text-align: center;
     .main-container {
         flex-direction: column; 
         text-align: left;
-        padding: 60px 10px 10px 30px;
+        padding: 60px 30px 10px 30px;
     }
-/*       img {
-        text-align: center;
-        height: 400px;
-    }  */
     .content h1 {
         width: 495px;
-/*         padding-left: 20px; */
     }
-/*     .content p { 
-        padding-left: 20px;
-    } */
-/*     .btn .btn p {
-        text-align: center;
-        padding-left: 20px;
+    .content p { 
+        width: 380px;
     }
-     */
     .copyright {
+        text-align: center;
         width: 150%;
         padding-bottom: 20px;
     } 
