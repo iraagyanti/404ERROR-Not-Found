@@ -65,17 +65,17 @@ text-align: center;
     .main-container {
         flex-direction: column; 
         text-align: left;
-        padding: 60px 30px 10px 30px;
+        padding: 85px 20px 10px 30px;
     }
     .content h1 {
         width: 495px;
     }
     .content p { 
-        width: 380px;
+        width: 390px;
     }
     .copyright {
-        text-align: center;
         width: 150%;
         padding-bottom: 20px;
+        padding-left: 50px;
     } 
 }
