@@ -65,18 +65,17 @@ text-align: center;
     .main-container {
         flex-direction: column; 
         text-align: left;
-        padding-left: 30px;
+        padding-left: 80px 30px 0 30px;
     }
     .img {
-        padding: 75px 30px 50px 30px;
-        width: 400px;
+        width: 350px;
     }
     .btn p { 
-        padding: 40px;
         text-align: center;
     }
     .btn {
-        margin: 45px;
+        width: 225px;
+        height: 75px;
     }
     .content h1 {
         padding-top: 50px;
