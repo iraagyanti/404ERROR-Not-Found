@@ -77,13 +77,13 @@ img {
 /*         padding: 80px 45px; */
     }
     button {
-        font-size: 7px;
-        width: 300px;
-        height: 97px;
+        font-size: 10px;
+        width: 330px;
+        height: 100px;
     }
     .content h1 {
-        font-size: 30px;
-        padding-top: 85px ;
+        font-size: 70px;
+        padding-top: 90px ;
         width: 530px;
     }
     .content p { 
@@ -93,6 +93,6 @@ img {
     .copyright {
         width: 150%;
 /*         padding-bottom: 20px; */
-        padding: 50px 35px 20px 30px;
+        padding: 80px 35px 20px 30px;
     } 
 }
