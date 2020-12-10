@@ -80,15 +80,15 @@ img {
     button {
        
         font-size: 5px;
-        width: 275px;
-        height: 90px;
+        width: 280px;
+        height: 95px;
     }
     .content h1 {
-/*         padding-right: 30px ; */
+        padding-top: 80px ;
         width: 497px;
     }
     .content p { 
-        padding: 45px 30px 40px 30px;
+/*         padding: 45px 30px 40px 0; */
         width: 420px;
     }
     .copyright {
