@@ -77,9 +77,9 @@ img {
 /*         padding: 80px 45px; */
     }
     button {
-        font-size: 5px;
-        width: 325px;
+        width: 317px;
         height: 110px;
+        margin: 0 auto;
         padding: 30px 15px; 
     }
     .content h1 {
@@ -89,7 +89,7 @@ img {
     }
     .content p { 
         padding-bottom: 80px ;
-        width: 430px;
+        width: 450px;
     }
     .copyright {
         width: 150%;
