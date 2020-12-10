@@ -71,19 +71,19 @@ img {
         padding-left: 30px;
     }
     img {
-        width: 530px;
+        width: 535px;
         height: 450px;
     }
-    button {
+/*     button {
         width: 315px;
         height: 110px;
-        padding: 30px 15px; 
+        padding-top: 30px; 
         text-align: center;
-    }
+    } */
     .content h1 {
-        font-size: 73px;
+        font-size: 70px;
         padding-top: 90px ;
-        width: 530px;
+        width: 537px;
     }
     .content p { 
         padding-bottom: 80px ;
