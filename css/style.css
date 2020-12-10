@@ -1,81 +1,85 @@
 * {
-margin: 0;
-padding: 0;
+    margin: 0;
+    padding: 0;
+}
+
+button {
+    /* display: inline-block; */
+    color: #FFFFFF;
+    background-color: #333333;
+    border: none;
+    font-family: Space Mono;
+    font-size: 15px;
+    height: 70px;
+    padding: 5px 3px 5px 3px;
+    text-transform: uppercase;
+    width: 220px;
 }
 
 img {
-display: inline-block;
-/* max-width: 100%;
-width: 539.22px; */
-height: 447.43px;
+    display: inline-block;
+    /* max-width: 100%;
+    width: 539.22px; */
+    height: 447.43px;
 }
+
 .main-container {
-display: flex;
-flex-direction: row;
-text-align: center;
-padding-top: 88px;
-justify-content: space-around;
+    display: flex;
+    flex-direction: row;
+    text-align: center;
+    padding-top: 88px;
+    justify-content: space-around;
 }
+
 .header {
-color: #333333;
-font-family: Inconsolata;
-font-size: 20px;
-font-weight: bold;
-letter-spacing: -0.08em;
-text-transform: uppercase;
-padding-left: 45px;
+    color: #333333;
+    font-family: Inconsolata;
+    font-size: 20px;
+    font-weight: bold;
+    letter-spacing: -0.08em;
+    text-transform: uppercase;
+    padding-left: 45px;
 }
+
 .content p{
-font-family: Space Mono;
-font-size: 24px;
-width: 385px;
-height: 108px;
-padding-bottom: 67px;
+    font-family: Space Mono;
+    font-size: 24px;
+    width: 385px;
+    height: 108px;
+    padding-bottom: 67px;
 }
+
 .content h1{
-font-family: Space Mono;
-font-size: 64px;
-width: 590px;
-height: 190px;
-padding-bottom: 37px;
+    font-family: Space Mono;
+    font-size: 64px;
+    width: 590px;
+    height: 190px;
+    padding-bottom: 37px;
 }
-.btn p {
-display: inline-block;
-color: #FFFFFF;
-font-size: 15px;
-text-transform: uppercase;
-width: 214px;
-height: 30px;
-padding: 10px 3px 5px 3px;
-}
-.btn {
-background-color: #333333;
-border: none;
-height: 70px;
-width: 220px;
-}
+
 .copyright {
-color: #333333;
-font-family: Montserrat;
-font-size: 14px;
-margin-top: 70px;
-text-align: center;
+    color: #333333;
+    font-family: Montserrat;
+    font-size: 14px;
+    margin-top: 70px;
+    text-align: center;
 }
+
 @media only screen and (max-width: 600px) {
     .main-container {
         flex-direction: column; 
-        text-align: left;
-        padding-left: 80px 30px 0 30px;
+        text-align: right;
+        padding: 80px 0 0 30px;
     }
     .img {
         width: 350px;
     }
-    .btn p { 
+/*     .btn p { 
         text-align: center;
     }
     .btn {
         width: 225px;
-        height: 75px;
+        height: 75px; */
     }
     .content h1 {
         padding-top: 50px;
