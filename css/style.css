@@ -4,7 +4,6 @@
 }
 
 button {
-    /* display: inline-block; */
     color: #FFFFFF;
     background-color: #333333;
     border: none;
@@ -72,13 +71,14 @@ img {
         padding: 80px 30px 0 30px;
     }
     img {
-        width: 400px;
+        text-align: center;
+        width: 430px;
     }
 
     button {
-/*         font-size: ; */
-        width: 210px;
-        height: 65px;
+        font-size: 12px;
+        width: 230px;
+        height: 75px;
     }
     .content h1 {
         padding-top: 50px;
