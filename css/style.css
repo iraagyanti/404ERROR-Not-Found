@@ -89,8 +89,9 @@ img {
         width: 545px;
     }
     .content p { 
+        font-size: 50px;
         padding-bottom: 80px ;
-        width: 480px;
+        width: 460px;
     }
     .copyright {
         width: 150%;
