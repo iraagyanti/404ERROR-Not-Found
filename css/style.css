@@ -75,13 +75,11 @@ img {
         height: 450px;
     }
     button {
+        display: inline-block;
+/*         text-align: center;
         height: 100px;
         padding: 30px 50px;
-        width: 293px;
-/*         width: 315px;
-        height: 110px;
-        padding-top: 30px; 
-        text-align: center; */
+        width: 293px; */
     }
     .content h1 {
         font-size: 70px;
@@ -89,7 +87,7 @@ img {
         width: 550px;
     }
     .content p { 
-        font-size: 35px;
+        font-size: 27px;
         padding-bottom: 80px ;
         width: 460px;
     }
