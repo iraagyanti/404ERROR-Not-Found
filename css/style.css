@@ -74,20 +74,23 @@ img {
         width: 535px;
         height: 450px;
     }
-/*     button {
-        width: 315px;
+    button {
+        height: 70px;
+        padding: 5px 3px 5px 3px;
+        width: 220px;
+/*         width: 315px;
         height: 110px;
         padding-top: 30px; 
-        text-align: center;
-    } */
+        text-align: center; */
+    }
     .content h1 {
         font-size: 70px;
         padding-top: 90px ;
-        width: 537px;
+        width: 540px;
     }
     .content p { 
         padding-bottom: 80px ;
-        width: 467px;
+        width: 470px;
     }
     .copyright {
         width: 150%;
