@@ -71,28 +71,27 @@ img {
         padding-left: 30px;
     }
     img {
-/*         text-align: center; */
+        text-align: center;
         width: 498px;
         height: 430px;
 /*         padding: 80px 45px; */
     }
 
     button {
-        font-size: 5px;
+        font-size: 10px;
         width: 295px;
         height: 97px;
     }
     .content h1 {
         padding-top: 85px ;
-        width: 520px;
+        width: 550px;
     }
     .content p { 
-/*         padding: 40px ; */
+        padding-bottom: 50px ;
         width: 450px;
     }
     .copyright {
         width: 150%;
-        padding-bottom: 20px;
-        padding-left: 30px;
+        padding: 50px 35px 20px 30px;
     } 
 }
