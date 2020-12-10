@@ -68,13 +68,13 @@ img {
     .main-container {
         flex-direction: column; 
         text-align: left;
-        padding: 80px 30px 0 40px;
+/*         padding: 80px 30px 0 40px; */
     }
     img {
         text-align: center;
         width: 500px;
         height: 420px;
-        padding-bottom: 80px;
+        padding: 80px 45px;
     }
 
     button {
@@ -83,11 +83,11 @@ img {
         height: 90px;
     }
     .content h1 {
-        padding-right: 30px ;
-        width: 495px;
+/*         padding-right: 30px ; */
+        width: 497px;
     }
     .content p { 
-        padding: 50px 30px 40px;
+        padding: 45px 30px 40px 30px;
         width: 420px;
     }
     .copyright {
