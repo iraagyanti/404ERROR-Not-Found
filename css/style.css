@@ -68,17 +68,17 @@ img {
     .main-container {
         flex-direction: column; 
         text-align: left;
-        padding-left: 45px;
+        padding-left: 30px;
     }
     img {
 /*         text-align: center; */
-        width: 495px;
-        height: 410px;
+        width: 470px;
+        height: 390px;
 /*         padding: 80px 45px; */
     }
 
     button {
-       
+        margin: 0 auto;
         font-size: 5px;
         width: 280px;
         height: 95px;
@@ -88,7 +88,7 @@ img {
         width: 497px;
     }
     .content p { 
-/*         padding: 45px 30px 40px 0; */
+/*         padding: 40px ; */
         width: 420px;
     }
     .copyright {
