@@ -71,17 +71,17 @@ img {
         padding-left: 30px;
     }
     img {
-        width: 527px;
-        height: 447px;
+        width: 530px;
+        height: 450px;
     }
     button {
-        width: 317px;
+        width: 315px;
         height: 110px;
-        margin-right: 100px;
         padding: 30px 15px; 
+        text-align: center;
     }
     .content h1 {
-        font-size: 77px;
+        font-size: 73px;
         padding-top: 90px ;
         width: 530px;
     }
