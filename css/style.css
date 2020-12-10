@@ -75,9 +75,9 @@ img {
         height: 450px;
     }
     button {
-        height: 95px;
-        padding: 30px 15px;
-        width: 250px;
+        height: 100px;
+        padding: 30px 50px;
+        width: 293px;
 /*         width: 315px;
         height: 110px;
         padding-top: 30px; 
@@ -86,10 +86,10 @@ img {
     .content h1 {
         font-size: 70px;
         padding-top: 90px ;
-        width: 545px;
+        width: 550px;
     }
     .content p { 
-        font-size: 25px;
+        font-size: 35px;
         padding-bottom: 80px ;
         width: 460px;
     }
