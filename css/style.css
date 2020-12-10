@@ -72,8 +72,9 @@ img {
     }
     img {
         text-align: center;
-        width: 550px;
-        height: 440px;
+        width: 500px;
+        height: 420px;
+        padding-bottom: 80px;
     }
 
     button {
@@ -82,11 +83,11 @@ img {
         height: 90px;
     }
     .content h1 {
-        padding-top: 70px;
+        padding-right: 30px ;
         width: 495px;
     }
     .content p { 
-        font-size: 30px;
+        padding: 50px 30px 40px;
         width: 420px;
     }
     .copyright {
