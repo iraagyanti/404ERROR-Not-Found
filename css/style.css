@@ -72,22 +72,23 @@ img {
     }
     img {
 /*         text-align: center; */
-        width: 500px;
-        height: 440px;
+        width: 520px;
+        height: 450px;
 /*         padding: 80px 45px; */
     }
     button {
-        font-size: 10px;
-        width: 328px;
+        font-size: 5px;
+        width: 325px;
         height: 110px;
+        padding: 30px 15px; 
     }
     .content h1 {
-        font-size: 83px;
+        font-size: 70px;
         padding-top: 90px ;
         width: 530px;
     }
     .content p { 
-        padding-bottom: 70px ;
+        padding-bottom: 80px ;
         width: 430px;
     }
     .copyright {
