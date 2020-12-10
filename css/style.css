@@ -72,19 +72,21 @@ img {
     }
     img {
         text-align: center;
-        width: 580px;
+        width: 550px;
+        height: 440px;
     }
 
     button {
-        font-size: 10px;
+        font-size: 7px;
         width: 275px;
         height: 90px;
     }
     .content h1 {
-        padding-top: 50px;
+        padding-top: 70px;
         width: 495px;
     }
     .content p { 
+        font-size: 30px;
         width: 420px;
     }
     .copyright {
