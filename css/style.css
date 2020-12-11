@@ -73,9 +73,8 @@ img {
         width: 535px;
         height: 450px;
     }
-    button {
-/*         display: absolute; */
-        font-size: 12px; 
+    .content button {
+        position: absolute;
         padding: 0 2%;
         line-height: 2px;
         width: 100%;
@@ -88,8 +87,8 @@ img {
     }
     .content p { 
         padding: 56px 0;
-        font-size: 23px;
-        width: 430px;
+        font-size: 24px;
+        width: 50%;
     }
     .copyright {
         width: 150%;
