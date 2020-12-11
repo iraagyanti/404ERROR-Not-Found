@@ -74,7 +74,7 @@ img {
         height: 450px;
     }
     .content button {
-        position: fixed;
+        position: inline-block;
         line-height: 2px;
         width: 100%;
         height: 110px;
@@ -87,7 +87,7 @@ img {
     .content p { 
         padding: 56px 0;
 /*         font-size: 24px; */
-        width: 523px;
+        width: 500px;
     }
     .copyright {
         width: 150%;
