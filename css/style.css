@@ -77,8 +77,9 @@ img {
     button {
         display: absolute;
         text-align: center;
-        width: 250px;
-        height: 98px;
+        line-height: 1rem;
+        width: 277px;
+        height: 113px;
 /*        
         height: 100px;
         padding: 30px 50px;
@@ -90,7 +91,7 @@ img {
         width: 550px;
     }
     .content p { 
-        padding-bottom: 80px ;
+        padding: 75px 0;
         width: 479px;
     }
     .copyright {
