@@ -1,6 +1,3 @@
-/* * {
-    box-sizing: border-box;
-} */
 body {
     margin: 2%;
     padding: 5px 0 5px 5px;
@@ -21,7 +18,7 @@ h1 {
 }
 p {
     font-family: "Space Mono";
-    font-size: 24px;
+    font-size: 27px;
     width: 67%;
 }
 footer p {
@@ -60,37 +57,21 @@ img {
     width: 50%;
     float: right;
 }
-/* @media only screen and (max-width: 600px) {
-    .main-container {
-        flex-direction: column; 
-        text-align: left;
-        padding-left: 30px;
-        margin: auto;
-    }
-    img {
-        width: 535px;
-        height: 450px;
-    }
-    .content button {
-        position: absolute;
-        margin: 0;
-        line-height: 2px;
-        width: 115%;
-        height: 113px;
-    }
-    .content h1 {
-        font-size: 73px;
-        padding-top: 90px ;
-        width: 550px;
-    }
-    .content p { 
-        padding: 56px 0;
-/*         font-size: 24px; */
-/*         width: 495px;
-    } */
-/*     .copyright {
-        width: 150%;
-        padding: 80px 35px 20px 30px;
-    }  */
+@media screen and (max-width: 600px) {
+  .content {
+    float: none; 
+  }
+  img {
+    width: 50%;
+    padding: 17% 30%;
+  }
+  h1 {
+    font-size: 20px;
+    width: 100%;
+  }
+  p {
+    font-size: 8px;
+    width: 100%;
+  } 
 }
- */
+
