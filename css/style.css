@@ -64,17 +64,17 @@ img {
    }
   .content {
    float: none;
-   width: 110%;
+   width: 125%;
   }
   img {
     width: 100%;
     padding: 17% 8%;
   }
   h1 {
-    font-size: 43px;
+    font-size: 45px;
   }
   p {
-    font-size: 17px;
+    font-size: 23px;
     padding-bottom: 8%;
   }
   button {
@@ -85,7 +85,7 @@ img {
   footer p {
     text-align: center;
     width: 100%;
-    padding: 15% 15%;
+    padding: 7% 15%;
     font-size: 14px;
   } 
 }
