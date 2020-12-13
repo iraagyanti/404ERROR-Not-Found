@@ -59,16 +59,18 @@ img {
 }
 
 @media screen and (max-width: 600px) {
+   body {
+    padding: 0;
+   }
   .content {
    float: none;
-   width: 100%;
+   width: 125%;
   }
   img {
     width: 100%;
-    padding: 20% 15%;
+    padding: 20% 10%;
   }
   h1 {
-/*     width: 100%; */
     font-size: 47px;
   }
   p {
