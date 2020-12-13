@@ -64,7 +64,7 @@ img {
    }
   .content {
    float: none;
-   width: 100%;
+   width: 110%;
   }
   img {
     width: 100%;
@@ -74,7 +74,7 @@ img {
     font-size: 43px;
   }
   p {
-    font-size: 20px;
+    font-size: 17px;
     padding-bottom: 8%;
   }
   button {
