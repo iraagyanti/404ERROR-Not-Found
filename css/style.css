@@ -64,28 +64,28 @@ img {
    }
   .content {
    float: none;
-   width: 125%;
+   width: 100%;
   }
   img {
     width: 100%;
-    padding: 20% 10%;
+    padding: 17% 10%;
   }
   h1 {
-    font-size: 47px;
+    font-size: 57px;
   }
   p {
-    font-size: 14px;
-    padding-bottom: 12%;
+    font-size: 20px;
+    padding-bottom: 8%;
   }
   button {
     font-size: 12px;
-    width: 63%;
-    height: 58px;
+    width: 45%;
+    height: 67px;
   }
   footer p {
     text-align: center;
     width: 100%;
-    padding: 10% 5%;
+    padding: 12% 10%;
     font-size: 14px;
   } 
 }
