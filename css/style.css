@@ -1,64 +1,66 @@
 * {
-    margin: 0;
-    padding: 0;
+    box-sizing: border-box;
+}
+body {
+    margin: 2%;
+    padding: 5px 0 5px 5px;
 }
 button {
-    /* display: inline-block; */
     color: #FFFFFF;
     background-color: #333333;
     border: none;
-    font-family: Space Mono;
+    font-family: "Space Mono";
     font-size: 15px;
-    height: 70px;
-    /* padding: 5px 3px 5px 3px; */
     text-transform: uppercase;
+    height: 70px;
     width: 220px;
 }
-img {
-    display: inline-block;
-    /* max-width: 100%; */
-    /* width: 539.22px; */
-    height: 447.43px;
+h1 {
+    font-family: "Space Mono";
+    font-size: 64px;
 }
-.main-container {
-    display: flex;
-    flex-direction: row
-    text-align: center;
-    padding-top: 88px;
-    justify-content: space-around;
+p {
+    font-family: "Space Mono";
+    font-size: 24px;
+    width: 67%;
 }
-.header {
+footer p {
     color: #333333;
-    font-family: Inconsolata;
+    font-family: "Montserrat";
+    font-size: 14px;
+    width: 100%;
+    margin-top: 7%;
+    margin-bottom: 0;
+}
+img {
+    margin: 4% 5% 0;
+    width: 37%;
+    height: 44%;
+}
+.first-box {
+    color: #333333;
+    font-family: "Inconsolata";
     font-size: 20px;
     font-weight: bold;
     letter-spacing: -0.08em;
-    text-transform: uppercase;
-    padding-left: 45px;
-}
-.content p{
-    font-family: Space Mono;
-    font-size: 24px;
-    width: 385px;
-    height: 108px;
-    padding-bottom: 67px;
-}
-.content h1{
-    font-family: Space Mono;
-    font-size: 64px;
-    width: 590px;
-    height: 190px;
-    padding-bottom: 37px;
-}
-footer {
-    color: #333333;
-    font-family: Montserrat;
-    font-size: 14px;
-    margin-top: 70px;
-    text-align: center;
+    text-transform: uppercase; 
+    width: 100%;
 }
 
-@media only screen and (max-width: 600px) {
+.second-box {
+    display: inline-block;
+    margin: 0;
+}
+
+.third-box {
+    position: relative;
+    text-align: center;
+}
+.content {
+    width: 50%;
+    float: right;
+}
+/* @media only screen and (max-width: 600px) {
     .main-container {
         flex-direction: column; 
         text-align: left;
@@ -84,10 +86,11 @@ footer {
     .content p { 
         padding: 56px 0;
 /*         font-size: 24px; */
-        width: 495px;
-    }
-    .copyright {
+/*         width: 495px;
+    } */
+/*     .copyright {
         width: 150%;
         padding: 80px 35px 20px 30px;
-    } 
+    }  */
 }
+ */
