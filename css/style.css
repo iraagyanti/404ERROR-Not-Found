@@ -65,10 +65,10 @@ img {
    }
   .content {
    float: none;
-   width: 77%;
+/*    width: 77%; */
   }
   img {
-    width: 77%;
+/*     width: 77%; */
 /*     padding: 13% 8% 13% 0;
    */
   h1 {
