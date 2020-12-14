@@ -69,13 +69,13 @@ img {
   }
   img {
 /*     width: 77%; */
-/*     padding: 13% 8% 13% 0;
-   */
+    padding-top: 15%;
+  }
   h1 {
-    font-size: 37px;
+    font-size: 20px;
   }
   p {
-    font-size: 7px;
+    font-size: 2px;
     padding-bottom: 8%;
   }
   button {
@@ -86,7 +86,7 @@ img {
   footer p {
 /*     text-align: center;
     width: 100%; */
-/*     padding: 7% 20%; */
+    padding-top: 10%;
     font-size: 14px;
   } 
 }
