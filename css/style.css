@@ -64,10 +64,10 @@ img {
    }
   .content {
    float: none;
-   width: 50%;
+   width: 150%;
   }
   img {
-/*     width: 77%; */
+    margin: 0;
     padding-top: 5%;
   }
   h1 {
