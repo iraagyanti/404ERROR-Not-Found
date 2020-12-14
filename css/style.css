@@ -61,15 +61,16 @@ img {
 @media screen and (max-width: 600px) {
    body {
     padding: 0;
+    width: 100%;
    }
   .content {
    float: none;
-   width: 137%;
+   width: 77%;
   }
   img {
-    width: 100%;
-    padding: 13% 8% 13% 0;
-  
+    width: 77%;
+/*     padding: 13% 8% 13% 0;
+   */
   h1 {
     font-size: 37px;
   }
@@ -83,9 +84,9 @@ img {
     height: 65px;
   }
   footer p {
-    text-align: center;
-    width: 100%;
-    padding: 7% 20%;
+/*     text-align: center;
+    width: 100%; */
+/*     padding: 7% 20%; */
     font-size: 14px;
   } 
 }
