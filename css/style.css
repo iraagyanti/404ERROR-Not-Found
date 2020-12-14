@@ -64,14 +64,14 @@ img {
    }
   .content {
    float: none;
-   width: 145%;
+   width: 137%;
   }
   img {
     width: 100%;
     padding: 17% 8%;
-  }
+  
   h1 {
-    font-size: 40px;
+    font-size: 37px;
   }
   p {
     font-size: 17px;
