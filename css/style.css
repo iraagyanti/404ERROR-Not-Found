@@ -65,17 +65,17 @@ img {
     }
 h1 {
     font-family: "Space Mono";
-    font-size: 47px; 
+    font-size: 48px; 
     }
 p {
     font-family: "Space Mono";
-    font-size: 20px;
+    font-size: 18px;
     }
 footer p {
     color: #333333;
     font-family: "Montserrat";
     font-size: 14px;
-    padding: 15% 7% 0;
+    padding: 15% 8% 0;
     width: 100%;
     margin-top: 0;
     margin-bottom: 0;
