@@ -60,13 +60,16 @@ img {
 
 @media screen and (max-width: 600px) {
     body {
-    width: 87%;
+    width: 83%;
     padding: 0;
    }
   .content {
    float: none;
    padding: 0 2% 0 3%;
    width: 125%;
+  }
+  .first-box {
+    font-weight: bold;
   }
   img {
     width: 125%;
