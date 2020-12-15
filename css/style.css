@@ -64,17 +64,18 @@ img {
     width: 100%;
     }
 h1 {
-    font-family: "Space Mono";
+/*     font-family: "Space Mono"; */
     font-size: 48px; 
     }
 p {
-    font-family: "Space Mono";
-    padding: 3%;
-    font-size: 16px;
+/*     font-family: "Space Mono"; */
+    padding: 2% 0;
+    width: 100%;
+    font-size: 15px;
     }
 footer p {
-    color: #333333;
-    font-family: "Montserrat";
+/*     color: #333333;
+    font-family: "Montserrat"; */
     font-size: 14px;
     padding: 15% 10% 0;
     width: 100%;
