@@ -64,12 +64,13 @@ img {
     padding: 0;
    }
   .content {
+   display: inline-block;
    float: none;
    padding: 0 2% 0 3%;
-   width: 125%;
+   width: 100%;
   }
   .first-box {
-    font-weight: bolder;
+    font-weight: 400;
   }
   img {
     width: 125%;
@@ -88,3 +89,4 @@ img {
     top: 40px;
     left: 65px;
   }
+}
