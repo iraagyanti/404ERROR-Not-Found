@@ -59,7 +59,33 @@ img {
 }
 
 @media screen and (max-width: 600px) {
-    body {
+img {
+    padding: 10% 7%;
+    width: 100%;
+    }
+h1 {
+    font-family: "Space Mono";
+    font-size: 68px; 
+    }
+p {
+    font-family: "Space Mono";
+    font-size: 27px;
+    }
+footer p {
+    color: #333333;
+    font-family: "Montserrat";
+    font-size: 14px;
+    padding: 15% 7% 0;
+    width: 100%;
+    margin-top: 0;
+    margin-bottom: 0;
+    }
+.content {
+    width: 112%;
+    float: none;
+    }
+}
+/*     body {
     width: 77%;
     padding: 0;
    }
@@ -68,9 +94,9 @@ img {
    float: none;
    padding-left: 3%;
 /*    padding: 0 2% 0 3%; */
-   width: 100%;
+/*    width: 100%; */
   }
-  .first-box {
+/*   .first-box {
     font-weight: 600;
   }
   img {
@@ -78,8 +104,6 @@ img {
     padding: 8%;
   }
   h1 {
-/*     font-size: 47px; */
-/*     width: 100%; */
     font-size: 38px;
   }
   p {
@@ -90,6 +114,5 @@ img {
   footer p {
     position: absolute;
     top: 40px;
-    left: 67px;
-  }
-}
+    left: 67px; */
+  } */
