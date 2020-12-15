@@ -66,6 +66,7 @@ img {
   .content {
    display: inline-block;
    position: relative;
+   left: 0;
    right: 0;
    float: none;
    padding-left: 3%;
@@ -80,12 +81,12 @@ img {
     padding: 8%;
   }
   h1 {
-/*     font-size: 37px; */
+    font-size: 43px;
 /*     width: 100%; */
 /*     font-size: 40px; */
   }
   p {
-/*     font-size: 15px; */
+    font-size: 20px;
     padding-bottom: 5%;
 /*     width: 100%; */
   }
