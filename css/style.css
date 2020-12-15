@@ -59,13 +59,13 @@ img {
 }
 
 @media screen and (max-width: 600px) {
-/*     body {
-    margin: 0;
+    body {
+    width: 125%;
     padding: 0;
-   } */
+   }
   .content {
    float: none;
-   width: 125%;
+   
   }
 /*   img {
     width: 100%;
