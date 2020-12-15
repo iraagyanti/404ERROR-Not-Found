@@ -69,7 +69,7 @@ img {
    width: 125%;
   }
   .first-box {
-    font-weight: bold;
+    font-weight: bolder;
   }
   img {
     width: 125%;
@@ -84,5 +84,7 @@ img {
     width: 100%;
   }
   footer p {
-    padding-left: 6%;
+    position: relative;
+    top: 20px;
+    left: 40px;
   }
