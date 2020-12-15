@@ -70,23 +70,23 @@ img {
    width: 100%;
   }
   .first-box {
-    font-weight: 400;
+    font-weight: 600;
   }
   img {
     width: 125%;
     padding: 8%;
   }
   h1 {
-    font-size: 43px;
+    font-size: 40px;
   }
   p {
-    font-size: 17px;
+    font-size: 15px;
     padding-bottom: 5%;
-    width: 100%;
+/*     width: 100%; */
   }
   footer p {
     position: absolute;
     top: 40px;
-    left: 65px;
+    left: 67px;
   }
 }
