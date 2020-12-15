@@ -65,9 +65,9 @@ img {
    }
   .content {
    display: inline-block;
-   position: relative;
+/*    position: relative;
    left: 0;
-   right: 0;
+   right: 0; */
    float: none;
    padding-left: 3%;
 /*    padding: 0 2% 0 3%; */
@@ -81,12 +81,12 @@ img {
     padding: 8%;
   }
   h1 {
-    font-size: 43px;
+    font-size: 47px;
 /*     width: 100%; */
 /*     font-size: 40px; */
   }
   p {
-    font-size: 20px;
+    font-size: 24px;
     padding-bottom: 5%;
 /*     width: 100%; */
   }
