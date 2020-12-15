@@ -65,12 +65,12 @@ img {
    }
   .content {
    float: none;
-   padding-left: 3%;
-   width: 127%;
+   padding: 0 2% 0 3%;
+   width: 125%;
   }
   img {
     width: 125%;
-    padding: 10%;
+    padding: 8%;
   }
   h1 {
     font-size: 43px;
@@ -80,7 +80,6 @@ img {
     padding-bottom: 5%;
     width: 100%;
   }
-  .third-box {
-     text-align: center;
-    padding: 6%;
+  footer p {
+    padding-left: 6%;
   }
