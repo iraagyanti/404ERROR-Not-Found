@@ -58,7 +58,7 @@ img {
     float: right;
 }
 
-@media screen and (max-width: 600px) {
+@media screen and (max-width: 900px) {
 img {
     padding: 10% 7%;
     width: 100%;
@@ -84,7 +84,7 @@ footer p {
     }
 }
 
-@media screen and (max-width: 900px) {
+/* @media screen and (max-width: 900px) {
 .content {
     width: 112%;
     float: none;
@@ -101,4 +101,4 @@ p {
     width: 100%;
     font-size: 20px;
     }
-}
+} */
