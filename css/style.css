@@ -83,3 +83,22 @@ footer p {
     float: none;
     }
 }
+
+@media screen and (max-width: 900px) {
+.content {
+    width: 112%;
+    float: none;
+    }
+img {
+    padding: 10% 7%;
+    width: 100%;
+    }
+h1 {
+    font-size: 48px; 
+    }
+p {
+    padding-bottom: 7%;
+    width: 100%;
+    font-size: 20px;
+    }
+}
