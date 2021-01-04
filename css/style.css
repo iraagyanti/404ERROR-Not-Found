@@ -60,22 +60,22 @@ img {
 img {
     position: relative;
     left: 22%;
-    width: 57%;
+    width: 60%;
     }
 h1 {
-    font-size: 37px; 
+    font-size: 35px; 
     }
 p {
     padding-bottom: 2%;
     width: 100%;
-    font-size: 20px;
+    font-size: 17px;
     }
 .first-box {
     font-size: 15px;
     }
 footer p {
-    font-size: 14px;
-    margin: 5% 0;
+    font-size: 12px;
+    margin: 7% 0 0;
     width: 100%;
     }
 .content {
