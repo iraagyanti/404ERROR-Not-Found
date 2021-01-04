@@ -63,12 +63,15 @@ img {
     width: 57%;
     }
 h1 {
-    font-size: 48px; 
+    font-size: 37px; 
     }
 p {
     padding-bottom: 2%;
     width: 100%;
     font-size: 20px;
+    }
+.first-box {
+    font-size: 15px;
     }
 footer p {
     font-size: 14px;
