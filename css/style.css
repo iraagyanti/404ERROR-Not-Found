@@ -1,6 +1,6 @@
 body {
     margin: 2%;
-    padding: 5px 0 5px 5px;
+    padding: 3px 0 5px 0;
 }
 button {
     color: #FFFFFF;
@@ -26,12 +26,11 @@ footer p {
     font-family: "Montserrat";
     font-size: 14px;
     width: 100%;
-    margin-top: 7%;
-    margin-bottom: 0;
+    margin: 2% 0 0;
 }
 img {
-    margin: 4% 5% 0;
-    width: 37%;
+    margin: 6% 2% 0;
+    width: 45%;
     height: 44%;
 }
 .first-box {
@@ -43,45 +42,41 @@ img {
     text-transform: uppercase; 
     width: 100%;
 }
-
 .second-box {
     display: inline-block;
     margin: 0;
 }
-
 .third-box {
     position: relative;
     text-align: center;
 }
 .content {
+    padding-top: 3%;
     width: 50%;
     float: right;
 }
 
-@media screen and (max-width: 600px) {
+@media screen and (max-width: 998px) {
 img {
-    padding: 10% 7%;
-    width: 100%;
+    position: relative;
+    left: 22%;
+    width: 57%;
     }
 h1 {
     font-size: 48px; 
     }
 p {
-    padding-bottom: 7%;
+    padding-bottom: 2%;
     width: 100%;
     font-size: 20px;
     }
 footer p {
     font-size: 14px;
-    padding: 18% 10% 0;
-    width: 100%;
-    margin-top: 0;
-    margin-bottom: 0;
+    margin: 5% 0;
+    width: 93%;
     }
 .content {
-    width: 112%;
+    width: 100%;
     float: none;
     }
 }
-
-
